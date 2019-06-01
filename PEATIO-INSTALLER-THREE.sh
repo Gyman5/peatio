@@ -123,7 +123,7 @@ echo -e "\033[34;7mCloning Stable Peatio Repo\e[0m"
 
 mkdir -p ~/peatio
 cd peatio
-git clone https://github.com/algobasket/PeatioCryptoExchange.git .
+git clone https://github.com/Gyman5/peatio.git .
 
 
 echo -e "\n\n"
