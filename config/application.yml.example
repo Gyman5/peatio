@@ -3,7 +3,7 @@ defaults: &defaults
   # sites hosts
   # session expire seconds
   # admin role account
-  URL_HOST: localhost:3000
+  URL_HOST: trade.meisontrade.com
   URL_SCHEMA: https
   SESSION_EXPIRE: 60
   ADMIN: 'admin@peatio.dev,admin@peatio.info'
